@@ -1,6 +1,7 @@
 # UIUX-DesignMockup-AlfathPetShop
 
-PROTOTYPE UI/UX User Flow Design Sistem Pengelolaan Penitipan Hewan "Alfath PetAdopt", Designed by AlfathDev (Maharsyalfath), 7 Juni 2021.
+PROTOTYPE UI/UX User Flow Design Sistem Pengelolaan Penitipan Hewan "Alfath PetAdopt", 
+Designed by AlfathDev (Maharsyalfath), 7 Juni 2021.
 
 ## Alur Penggunaan Aplikasi PetAdopt:
 1. Pengguna membuka aplikasi "Pet Adopt"
