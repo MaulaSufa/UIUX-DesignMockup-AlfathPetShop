@@ -1,6 +1,6 @@
 # UIUX-DesignMockup-AlfathPetShop
 
-![Gambar 9 - Revisi Prototype UIUX User Flow Design Sistem Pengelolaan Penitipan Hewan Alfath PetAdopt Designed by AlfathDev 07 Juni 2021](https://user-images.githubusercontent.com/43428127/162033359-6a769457-4448-45d8-a33b-d559e38a35cf.png)
+![Gambar 9 - Revisi Prototype UIUX User Flow Design Sistem Pengelolaan Penitipan Hewan Alfath PetAdopt Designed by AlfathDev 07 Juni 2021 (Watermark)_](https://user-images.githubusercontent.com/43428127/162033660-58edc342-1bfd-43b6-b0a5-5a38a20a66c8.png)
 
 PROTOTYPE UI/UX User Flow Design Sistem Pengelolaan Penitipan Hewan "Alfath PetAdopt", 
 Designed by AlfathDev (Maharsyalfath), 7 Juni 2021.
